@@ -1,5 +1,5 @@
 # SVG Pie Chart Generator
-[Demo here](https://dariuszignaciuk.github.io/piechartt/ "piechart demo")
+[Demo here](https://dariuszignaciuk.github.io/piechart/ "piechart demo")
 #### Create SVG Pie Chart with few lines of code.
 
 ***
